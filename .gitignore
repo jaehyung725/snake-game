@@ -26,6 +26,7 @@ logs/
 
 # Local tools, environments, and temporary files
 backup-intro/
+backups/
 .codex/
 .venv/
 venv/
