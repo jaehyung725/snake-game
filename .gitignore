@@ -1,0 +1,38 @@
+# Local secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+.streamlit/secrets.toml
+.aws/
+.ssh/
+
+# Personal material and local records (keep these in dedicated folders)
+private/
+personal/
+개인자료/
+개인 자료/
+받은 PDF/
+data/
+logs/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Local tools, environments, and temporary files
+backup-intro/
+.codex/
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
